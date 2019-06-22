@@ -1,6 +1,6 @@
 This is a project I have started as a hobby. Mostly to apply what I have learned through online courses and other resources. If you have any suggestions feel free to contact me at ozgeyoluk_at_proteinart.net.
 
-** Current status : ** Creating the structure of the code and deciding on what parameters should be supplied, what test cases should be written before writing the code. The first steps.
+**Current status:** Creating the structure of the code and deciding on what parameters should be supplied, what test cases should be written before writing the code. The first steps.
 
 # GOAL
 Being able to plot motions of animals through line graphs in a GUI. The idea is that features of an animal will be chosen and a series of simple line graphs will be generated to display a motion based on those features. While the graphs are animated, equations will be displayed next to the lines. Extra equations could be entered to add details to the animal. 
